@@ -39,7 +39,7 @@
 
 
         </table>
-        <td><a href="sala.html">ir a registrar Sala salasituacional1  </a></td>
+        <td><a href="index.html">ir a registrar Sala salasituacional1  </a></td>
 
     </body>
 
